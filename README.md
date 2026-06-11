@@ -1,1 +1,1 @@
-# Qwen-SLM-Engineering
+# qwen-slm-engineering-lab
